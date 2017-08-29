@@ -1,0 +1,882 @@
+[
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake61.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake61.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake1.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake1.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak18.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak18.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake44.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake44.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak6.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak6.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak49.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak49.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake27.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake27.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak35.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak35.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake58.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake58.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake13.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake13.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak66.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak66.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak21.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak21.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak78.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak78.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake63.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake63.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak50.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak50.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak64.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak64.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake11.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake11.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak37.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak37.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake30.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake30.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak68.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak68.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak23.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak23.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake25.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake25.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak62.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak62.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak71.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak71.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake65.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake65.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\67ba7261ead7c3dcc20d53627e0b7426cb528b8e\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake46.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake46.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak40.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak40.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak8.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak8.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake40.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake40.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake15.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake15.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak33.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak33.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak52.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak52.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak39.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak39.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake34.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake34.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak14.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak14.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake37.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake37.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake56.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake56.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake75.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake75.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak2.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak2.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak11.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak11.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak26.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak26.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake7.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake7.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak73.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak73.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak1.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak1.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\67ba7261ead7c3dcc20d53627e0b7426cb528b8e\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak74.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak74.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake66.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake66.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake70.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake70.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake6.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake6.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak43.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak43.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake19.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake19.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake49.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake49.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak10.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak10.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake68.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake68.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake71.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake71.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake52.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake52.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak59.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak59.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake5.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake5.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake41.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake41.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak45.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak45.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak72.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak72.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake22.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake22.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake39.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake39.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake33.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake33.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak54.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak54.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake42.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake42.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak15.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak15.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak63.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak63.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake77.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake77.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake38.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake38.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake51.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake51.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak16.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak16.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak69.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak69.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake32.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake32.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake29.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake29.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak25.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak25.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake23.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake23.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak44.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak44.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake48.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake48.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake67.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake67.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak65.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak65.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak51.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak51.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake28.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake28.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak79.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak79.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak34.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak34.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak20.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak20.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake31.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake31.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake76.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake76.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake62.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake62.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak7.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak7.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak19.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak19.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake57.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake57.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake60.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake60.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake74.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake74.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak53.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak53.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake2.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake2.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak67.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak67.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak48.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak48.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake14.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake14.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake4.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake4.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake78.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake78.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak29.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak29.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake47.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake47.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake50.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake50.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak77.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak77.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake24.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake24.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak46.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak46.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake69.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake69.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak24.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak24.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake43.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake43.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak5.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak5.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak58.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak58.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak30.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak30.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake12.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake12.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak55.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak55.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake21.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake21.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake18.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake18.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak36.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak36.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak17.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak17.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake72.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake72.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake59.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake59.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake36.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake36.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake53.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake53.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak57.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak57.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak12.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak12.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake35.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake35.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak13.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak13.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak27.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak27.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake54.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake54.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak75.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak75.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake79.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake79.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak56.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak56.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak42.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak42.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak61.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak61.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake17.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake17.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake8.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake8.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake64.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake64.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak31.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak31.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak70.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak70.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak4.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak4.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak76.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak76.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak9.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake55.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake55.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake9.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak3.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak3.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake20.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake20.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake16.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake16.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake73.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake73.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak38.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak38.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake3.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake3.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak32.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak32.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak47.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak47.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak41.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak41.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake26.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake26.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak28.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak28.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak60.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak60.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\26c27b67ad409c74de052ddfdfdd26dd30612ebd\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake10.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake10.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snake45.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snake45.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\snak22.png",
+        "source": "E:\\Anim\\myanimation\\app\\src\\main\\res\\drawable-xhdpi\\snak22.png"
+    },
+    {
+        "merged": "E:\\Anim\\myanimation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Umerfarooq\\.android\\build-cache\\fd7a0c6cb0362582a720866c60738ddfb80b6ed7\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]
